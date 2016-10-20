@@ -16,7 +16,7 @@ Therefore, please consider this list as my personal references of choosing the b
 - YAML parser: [yaml](https://hackage.haskell.org/package/yaml)
 - HTTP client: [wreq](https://hackage.haskell.org/package/wreq)
 - Time: [time](https://hackage.haskell.org/package/time)
-- URL Routing: [`pathInfo`](http://hackage.haskell.org/package/wai-3.2.1.1/docs/Network-Wai.html#v:pathInfo) with pattern matching is quite enough. If needing more power:boom:, consider [web-routes](https://hackage.haskell.org/package/web-routes).
+- URL Routing: [`pathInfo`](http://hackage.haskell.org/package/wai-3.2.1.1/docs/Network-Wai.html#v:pathInfo) with pattern matching is quite enough.
 - to be added...
 
 ## Curator
