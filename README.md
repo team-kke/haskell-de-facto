@@ -18,8 +18,10 @@ Therefore, please consider this list as my personal references of choosing the b
 - Time: [time](https://hackage.haskell.org/package/time)
 - URL Routing: [`pathInfo`](http://hackage.haskell.org/package/wai-3.2.1.1/docs/Network-Wai.html#v:pathInfo) with pattern matching is quite enough.
 - Regular Expression: [regex-posix](https://www.stackage.org/haddock/lts-7.5/regex-posix-0.95.2/Text-Regex-Posix.html), [tutorial](http://www.serpentine.com/blog/2007/02/27/a-haskell-regular-expression-tutorial/)
+- `Show` without escaping unicode: [unicode-show](https://hackage.haskell.org/package/unicode-show)
 - to be added...
 
 ## Curator
 
 - [Jun](https://github.com/noraesae)
+- [Jeong Yonguk](https://github.com/alldne)
