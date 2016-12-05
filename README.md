@@ -14,7 +14,7 @@ Therefore, please consider this list as my personal references of choosing the b
 
 - Command-line option parser: [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative)
 - YAML parser: [yaml](https://hackage.haskell.org/package/yaml)
-- HTTP client: [wreq](https://hackage.haskell.org/package/wreq)
+- HTTP client: [http-conduit](https://www.stackage.org/package/http-conduit)
 - Time: [time](https://hackage.haskell.org/package/time)
 - URL Routing: [`pathInfo`](http://hackage.haskell.org/package/wai-3.2.1.1/docs/Network-Wai.html#v:pathInfo) with pattern matching is quite enough.
 - Regular Expression: [regex-posix](https://www.stackage.org/haddock/lts-7.5/regex-posix-0.95.2/Text-Regex-Posix.html), [tutorial](http://www.serpentine.com/blog/2007/02/27/a-haskell-regular-expression-tutorial/)
@@ -23,5 +23,5 @@ Therefore, please consider this list as my personal references of choosing the b
 
 ## Curator
 
-- [Jun](https://github.com/noraesae)
+- [Hyunje Jun](https://github.com/noraesae)
 - [Jeong Yonguk](https://github.com/alldne)
