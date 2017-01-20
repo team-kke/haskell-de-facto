@@ -13,6 +13,7 @@ Therefore, please consider this list as my personal references of choosing the b
 ## List
 
 - Command-line option parser: [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative)
+- Configuration: [configurator](https://hackage.haskell.org/package/configurator)
 - YAML parser: [yaml](https://hackage.haskell.org/package/yaml)
 - HTTP client: [http-conduit](https://www.stackage.org/package/http-conduit)
 - Time: [time](https://hackage.haskell.org/package/time)
